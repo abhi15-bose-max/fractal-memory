@@ -102,8 +102,4 @@ This project is released under the MIT License (see LICENSE file).
 
 ---
 
-##  Contact
-
-This is a research prototype developed for exploratory and academic purposes.  
-Questions and discussions are welcome.
 
