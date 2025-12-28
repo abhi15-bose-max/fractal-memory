@@ -1,0 +1,3 @@
+learning_rate: 0.0001
+reservoir_size: 300
+consolidate_every: 400
